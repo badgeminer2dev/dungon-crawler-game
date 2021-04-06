@@ -1,3 +1,3 @@
-<h1>The Player<h1/><br>
-  
-original look 
+<h1>The Player</h1><br>
+<h5>original look</h5> <br>
+.....

@@ -2,4 +2,4 @@
 <h5>original look</h5> <br>
 .....<br>
 <h5>controlls</h5><br>
-<p>press the arows to move,space for interact</p>
+<p>press the arows to move, space for interact</p>

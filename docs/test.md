@@ -10,7 +10,7 @@ function showNotification() {
 	});
  };
  if(window.Notification && Notification.permission == "denied") {
-	alert('denyed')
+	alert('denyed');
  };
 }
 </script>

@@ -3,8 +3,8 @@
 function showNotification() {
   if(window.Notification && Notification.permission !== "denied") {
 	Notification.requestPermission(function(status) {  // status is "granted", if accepted by user
-		var n = new Notification('Title', { 
-			body: 'I am the body text!',
+		var n = new Notification('yo found the easter egg', { 
+			body: 'EGG 1/1',
 			icon: '/path/to/icon.png' // optional
 		}); 
 	});

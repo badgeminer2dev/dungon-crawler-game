@@ -9,6 +9,9 @@ function showNotification() {
 		}); 
 	});
  };
+ if(window.Notification && Notification.permission == "denied") {
+	alert('denyed')
+ };
 }
 </script>
 <p><button onclick="showNotification()">Show a Notification</button></p>

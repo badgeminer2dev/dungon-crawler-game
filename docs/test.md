@@ -14,4 +14,4 @@ function showNotification() {
  };
 }
 </script>
-<p><button onclick="showNotification()">Show a Notification</button></p>
+<p><button onclick="showNotification()">UM click me</button></p>

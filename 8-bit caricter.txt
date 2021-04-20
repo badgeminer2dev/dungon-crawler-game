@@ -1,0 +1,25 @@
+-needs to be 8-bit theme
+-person
+-have 3 classes
+	+warior
+		-diamond armor
+		-shield
+		-sword
+		-----states-----
+		-sword and shield out
+		-blocking with shield
+		-burning
+	+archer================
+		-bow
+		-quiver
+		----states-----
+		-bow charged(pulled back)
+		-bow out
+		-burning
+	+mage================
+		-robes
+		-staff
+		-----states------
+		-casting spell
+		-normal
+-png files in zip

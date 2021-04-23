@@ -1,0 +1,1 @@
+checkrect.topleft = (50, 50)

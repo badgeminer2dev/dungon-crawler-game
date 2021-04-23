@@ -1,0 +1,9 @@
+========needs install=========
+colorama
+pygame
+==========bilt in=============
+sys
+time
+datetime
+==========custom==============
+loader(to be inv)

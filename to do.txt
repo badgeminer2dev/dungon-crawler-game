@@ -1,0 +1,2 @@
+add npcs[]
+add water

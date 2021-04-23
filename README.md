@@ -1,2 +1,2 @@
 # dungon-crawler-game
-comming soon
+v 0.1 needs pyton
